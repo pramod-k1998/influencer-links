@@ -47,10 +47,10 @@ influencer_links/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/influencer-links.git
+1. Clone the Repository
+git clone https://github.com/pramod-k1998/influencer-links.git
 cd influencer-links
 
 2. Create Virtual Environment
