@@ -8,6 +8,8 @@ __pycache__/
 db.sqlite3
 /media/
 *.log
+# .gitignore
+.env
 
 # Migrations (optional: keep if you want them in source control)
 **/migrations/
